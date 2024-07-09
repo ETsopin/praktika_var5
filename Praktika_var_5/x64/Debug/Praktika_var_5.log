@@ -1,0 +1,14 @@
+﻿  Praktika_var_5.cpp
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(47,16): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(50,16): warning C4244: return: преобразование "const double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(119,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(122,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(125,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(128,27): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(217,41): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(173,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(174,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(179,44): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(179,37): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Tsopin\source\repos\Praktika_var_5\Praktika_var_5\Praktika_var_5.cpp(218,18): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+  Praktika_var_5.vcxproj -> C:\Users\Tsopin\source\repos\Praktika_var_5\x64\Debug\Praktika_var_5.exe
